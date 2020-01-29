@@ -1,0 +1,3 @@
+Flask==1.1.1
+coverage==4.5.4
+PyJWT==1.7.1
